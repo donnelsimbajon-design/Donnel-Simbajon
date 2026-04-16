@@ -5,10 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/"><img src="https://skillicons.dev/icons?i=facebook" width="35" height="35" /></a>
-  <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" width="35" height="35" /></a>
-  <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" width="35" height="35" /></a>
-  <a href="mailto:email@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" height="35" /></a>
+  <a href="https://facebook.com/"><img src="https://skillicons.dev/icons?i=facebook" width="35" /></a> <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" width="35" /></a> <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" width="35" /></a> <a href="mailto:email@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="35" /></a>
 </p>
 
 ---
